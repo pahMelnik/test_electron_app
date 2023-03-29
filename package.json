@@ -1,0 +1,22 @@
+{
+  "name": "test_electron_app",
+  "version": "1.0.0",
+  "description": "My first Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahMelnik/test_electron_app.git"
+  },
+  "author": "pahMelnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pahMelnik/test_electron_app/issues"
+  },
+  "homepage": "https://github.com/pahMelnik/test_electron_app#readme",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  }
+}
